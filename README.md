@@ -5,11 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alaamhna3354" alt="alaamhna3354" /></a> </p>
 
+- 🌱 I’m currently learning **Frontend**
+
 - 💬 Ask me about **vue.js**
 
 - 📫 How to reach me **alaamhna3354@gmail.com**
 
-- ⚡ Fun fact **I like to constantly improve myself.**
+- ⚡ Always learning new things
+
+- 🐼 Doing my best
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,5 +29,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alaamhna3354&show_icons=true&locale=en" alt="alaamhna3354" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alaamhna3354&" alt="alaamhna3354" /></p>
+
 
 
