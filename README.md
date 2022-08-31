@@ -2,16 +2,17 @@
 <h3 align="center">A passionate frontend developer from Syria</h3>
 
 
-- 🌱 I’m currently learning **Frontend**
-
-- 💬 Ask me about **vue.js**
-
-- 📫 How to reach me **alaamhna3354@gmail.com**
-
-- ⚡ Always learning new things
-
-- 🐼 Doing my best
-
+<div style="display: flex;">
+    <div>
+    - 🌱 I’m currently learning **Frontend**
+    - 💬 Ask me about **vue.js**
+    - 📫 How to reach me **alaamhna3354@gmail.com**
+    - ⚡ Always learning new things
+    - 🐼 Doing my best
+    </div>
+    
+    <img src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" alt="">
+</div>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/alaa-mhna-a9737824a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alaa-mhna-a9737824a" height="30" width="40" /></a>
@@ -29,5 +30,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alaamhna3354&label=Profile%20views&color=0e75b6&style=flat" alt="alaamhna3354" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alaamhna3354" alt="alaamhna3354" /></a> </p>
+
 
 
