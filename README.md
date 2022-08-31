@@ -2,16 +2,14 @@
 <h3 align="center">A passionate frontend developer from Syria</h3>
 
 
-<div style="display: flex;">
-    <div>
+
+   
     - 🌱 I’m currently learning **Frontend**
     - 💬 Ask me about **vue.js**
     - 📫 How to reach me **alaamhna3354@gmail.com**
     - ⚡ Always learning new things
     - 🐼 Doing my best
-    </div>
-    
-    <img src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" alt="">
+  <img align="right" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="">
 </div>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
